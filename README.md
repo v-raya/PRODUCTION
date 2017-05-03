@@ -1,2 +1,2 @@
 # Production
-This repository is used to publish production Release Notes and track production issues.
+This repository is used to publish Production Release Notes and track issues discovered on the Production web site.
