@@ -1,2 +1,2 @@
 # Production
-This repository is used to publish Production Release Notes.
+This repository is used to publish CWS-CARES Production Release Notes.
