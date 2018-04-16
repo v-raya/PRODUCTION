@@ -14,6 +14,8 @@
 
 * No fixes
 
+---
+
 ## Case Management
 
 ### Added
