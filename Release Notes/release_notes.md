@@ -2,7 +2,7 @@
 
 ##  Snapshot 1.2
 Snapshot 1.2 will enable child welfare staff to search for clients in the child welfare system and see “at a glance” a view of their past involvement. This includes dates of referrals/cases, allegations, dispositions as well as victim and perpetrator information. The copy functionality will allow staff to copy and paste information into another document, such as an Investigative Narrative or Court Report.
-### New Features
+### New 
 - Log In using Cognito (See below)
 - Placement Home as Address Type
 - Attach Link in Relationship Card 
@@ -25,30 +25,30 @@ Snapshot 1.2 will enable child welfare staff to search for clients in the child 
 
 ## Facility Search 1.0
 Facility Profile Search is an at-a-glance view that provides key information about a facility or home all on one screen! In CWS-CARES, facility and home data including contact information, license status, assigned worker and approved bed data is retrieved from CWS/CMS and Licensing Information System (LIS). Facility complaint information is retrieved from the Field Automation System (FAS). Additionally, staff can see the children placed in a facility or home, thereby eliminating the need to run a placement report.
-### New Features
+### New 
 -	Search for facilities or homes from CWS/CMS and LIS
 -	View CWS/CMS child information associated with facilities or homes
 -	Review complaint history from the FAS associated with facilities
 -	Search on county, facility type, facility ID, facility name or facility address or any combination of these fields 
 -	Search at the county or statewide level
-### Changed Features
+### Changed
 - No changes
-### Fixed Features
+### Fixed
 - No fixes
 
 ## Cognito 1.0
 Cognito is a new identity management system. 
-### New Features
+### New
 -	Ability to login to CWS-CARES securely without two factor authentication.
-### Changed Features
+### Changed
 - No changes
-### Fixed Features
+### Fixed
 - No fixes
 
 # March 16, 2017
 
 ##  Snapshot 1.1
-### New Features
+### New
 - User can logout of CARES
 - Searching by Date of Birth will show matching results that are highlighted
 - Displaying an error message to users based on privileges to view sensitive people information
@@ -59,12 +59,12 @@ Cognito is a new identity management system.
 - Users will see people added to the snapshot/screening in the side nav
 - Users will see a side nav that will allow them to easily navigate in the app
 - Users will be allowed or not be allowed to add people to the snapshot/screening based on their privileges.
-### Changed Features
+### Changed
 - Case history should not show unrelated minors case history. 
 - Address and phone numbers to only show active (non-end dated) information
 - The case history view to show familial sibling cases and parents (alleged, presumed, birth, etc)
 - Search weighting results to elevate exact matches over partial matches
-### Fixed Features
+### Fixed
 - Page content to scroll behind search results with ability to scroll just for people returned from search
 - Phone number format in search results and people card
 - Referrals in legacy can also be seen in CARES
@@ -88,10 +88,9 @@ Cognito is a new identity management system.
 # March 16, 2017
 
 ##  Snapshot 1.0
-### New Features
+### New
 - **Person Search**:  Added ability to search for clients by First Name, Last Name, Date of Birth, and Social Security Number.
-### Changed Features
+### Changed
 - No changes
-### Fixed Features
+### Fixed
 - No fixes
-
