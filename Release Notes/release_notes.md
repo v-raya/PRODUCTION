@@ -1,3 +1,14 @@
+# June 21, 2018
+
+##  Snapshot 1.2.1
+### New
+•	No new features.
+### Changed
+•	No changes.
+### Fixed
+•	Fixed problem with “last change” jobs stalling when many records are updated on CWS/CMS.
+•	Fixed link to production release notes on the dashboard.
+
 # June 08, 2018
 
 ##  Snapshot 1.2
