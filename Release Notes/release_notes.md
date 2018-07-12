@@ -1,13 +1,33 @@
+# July 11, 2018
+
+## Identity Management 1.1
+The purpose of this release is to introduce the functional user interface that will be the foundation for future user management.
+
+### New
+- User Detail Page
+  - Ability to set user to Active/Inactive Status (status is for access to the CWS-CARES application)
+  - Ability to assign Permissions to a user (permissions control what applications within CWS-CARES a user will be able to access)
+  - Display of basic user information
+- User List View (Able to select user from list to see User Details)
+  - Display of users for an administrator filtered by County (County based on administrators county)
+  - Ability to search for users (Search by Last Name)
+
+### Changed
+- Registration Email now calls out special instructions to ensure Copy/Paste of temp password is not attempted.
+
+### Fixed
+- No fixes
+
 # June 21, 2018
 
 ##  Snapshot 1.2.1
 ### New
-•	No new features.
+- No new features.
 ### Changed
-•	No changes.
+- No changes.
 ### Fixed
-•	Fixed problem with “last change” jobs stalling when many records are updated on CWS/CMS.
-•	Fixed link to production release notes on the dashboard.
+- Fixed problem with “last change” jobs stalling when many records are updated on CWS/CMS.
+- Fixed link to production release notes on the dashboard.
 
 # June 08, 2018
 
@@ -47,8 +67,8 @@ Facility Profile Search is an at-a-glance view that provides key information abo
 ### Fixed
 - No fixes
 
-## Cognito 1.0
-Cognito is a new identity management system. 
+## Identity Management 1.0
+This introduces a new identity management system. 
 ### New
 -	Ability to login to CWS-CARES securely without two factor authentication.
 ### Changed
