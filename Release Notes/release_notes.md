@@ -1,3 +1,37 @@
+# September 5, 2018
+## Snapshot 1.3
+
+### New
+- Hidden reporter information from copy and paste feature
+- In the history card, Conclusion will replace Disposition
+- Ability to add the middle name to the relationship payload
+- The “Enter” button was disabled on the Search bar
+
+### Changed
+- No changes
+
+### Fixed
+- No fixes
+
+## Facility Search and Profile 1.1
+### New
+- The Profile page will display the assigned worker Email address and Phone Number
+- Allegations for complaints can now be seen in a facility profile
+- The Profile page will display complaints from FAS for FFH/CFH/RFH originating in CWS/CMS
+- The ability to filter for Active Facilities only
+- Search no longer requires exact match for Facility Name nor Facility Address
+  
+### Changed
+- No changes
+
+### Fixed 
+- The Complaint History field on profile page will now show N/A instead of No Data
+- Facility name now exist in profile header and profile body making it easier to identify
+- Lost Facilities During Replication Process – Fix was made to record the timestamp of information during the search process to ensure that data is loaded successfully
+- The sort order for Children placed in home is now defaulted to Date of Placement
+- The complaint history sort order is now sorted in order by, Open, Returned, Approved, Closed without Investigation
+
+
 # July 11, 2018
 
 ## Identity Management 1.1
